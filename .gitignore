@@ -1,3 +1,4 @@
+*.pyc
 midi-files/Tracks/
 midi-files/Songs/
 midi-files/Separated/
