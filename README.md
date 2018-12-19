@@ -16,6 +16,6 @@ This project was originally done by [Beamlak Hailemariam
 ](https://www.linkedin.com/in/daniel-suissa-690823113/)
 
 
-## If you want to play around with the proprocessing scripts to create your own dataset
+### If you want to play around with the proprocessing scripts to create your own dataset
 
 Documentation will come. For now, you'll need to create the appropriate "Songs", & "Tracks" folder. "Songs" is where the original midis go, then populate "Tracks" with the separateToTracks function and then populate the smushed versions using the "smushAll" function. Good luck =]
